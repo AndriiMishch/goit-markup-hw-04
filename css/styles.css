@@ -512,8 +512,8 @@ margin-bottom: 16px;
   border-radius: 50%;
 }
 .footer-social-icon {
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
 }
 
 .footer-social:is(:hover, :focus) {
